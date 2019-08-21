@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@sanity/block-content-to-react": "^2.0.6",
+    "@sanity/client": "^0.142.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.0.1",
